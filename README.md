@@ -1,4 +1,4 @@
-# Minuet_buzzer_button
+# 미뉴에트 연주하는 아두이노
 <img src="Ba.jpg">
 
 # 2023.04.24 ~ 2023.04.28
