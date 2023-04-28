@@ -1,5 +1,5 @@
 # Minuet_buzzer_button
-<img src="Ba.png>
+<img src="Ba.jpg">
 #2023.04.24 ~ 2023.04.28
 #참여인원
 4명
